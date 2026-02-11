@@ -1,4 +1,4 @@
-package safwana;
+package shahana;
 class Product {
 	int pcode;
 	String pname;
